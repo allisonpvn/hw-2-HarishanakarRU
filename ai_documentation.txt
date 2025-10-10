@@ -1,0 +1,1 @@
+I did not use any LLMs or AI to complete this homework assignment. The resources I used which were sufficient to complete the homework were Lab 4, reading the documentation for the libraries which errored during testing (scipy.signal.windows for blackman and tukey methods), as well as the tips given in teh hw02-description.
