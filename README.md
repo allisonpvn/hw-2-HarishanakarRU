@@ -5,4 +5,4 @@ _This repository is public so that Binder can find it. All code and data is base
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/UCB-stat-159-f25/hw-2-HarishanakarRU.git/HEAD?urlpath=%2Fdoc%2Ftree%2FLOSC_Event_tutorial.ipynb)
 
-For this homework, we used the LOSC_Event_tutorial repository by LIGO to reproduce the jupyter notebook that can be found in the repository. This helped in 
+For this homework, we used the LOSC_Event_tutorial repository by LIGO to reproduce the jupyter notebook that can be found in the repository. This helped in showing the transparency of the research, which gives it further credibility. Additionally, I created a separate conda environment called ligo, downloaded the packages and dependencies used by the notebook, to assist in the replication process. The Binder badge aboves allows the reader to explore the reproduced final product and access the related outputs from said project.
